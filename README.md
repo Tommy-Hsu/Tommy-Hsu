@@ -1,23 +1,9 @@
-<h1 align="left">Tommy</h1>
-<h3 align="left">CS student from Taiwan</h3>
+<h2 align="left">Tommy-Hsu</h2>
+<p>CS student from Taiwan</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommy-hsu&show_icons=true&locale=en&layout=compact" alt="tommy-hsu" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tommy-hsu&show_icons=true&locale=en" alt="tommy-hsu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommy-hsu&show_icons=true&locale=en&layout=compact" alt="tommy-hsu" /></p>
 
 ___
-<h3 align="left">Experience</h3>
-
-<!--
-**Tommy-Hsu/Tommy-Hsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Experience</h2>
