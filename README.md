@@ -5,8 +5,8 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommy-hsu&show_icons=true&locale=en&layout=compact" alt="tommy-hsu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tommy-hsu&show_icons=true&locale=en" alt="tommy-hsu" /></p>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tommy-hsu&show_icons=true&locale=en" alt="tommy-hsu" /></p>
 
 
 <!--
