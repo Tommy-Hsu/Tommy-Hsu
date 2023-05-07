@@ -6,4 +6,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommy-hsu&show_icons=true&locale=en&layout=compact" alt="tommy-hsu" /></p>
 
 ___
-<h2 align="left">Experience</h2>
